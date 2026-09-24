@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0284c7,100:38bdf8&height=160&section=header&text=Muhammad%20Farhan%20Nasir&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0284c7,100:38bdf8&height=160&section=header&text=Farhan%20Nasir&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-### 🙋‍♂️ Hello, I'm Muhammad Farhan Nasir
+### 🙋‍♂️ Hello, I'm Farhan Nasir
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Farhani981&style=flat-square&color=blue" alt="Profile Views" /> </p>
 
@@ -37,3 +37,4 @@
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
