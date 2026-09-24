@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,15,25,35&height=150&section=header&text=Muhammad%20Farhan%20Nasir&fontSize=40&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0284c7,100:38bdf8&height=160&section=header&text=Muhammad%20Farhan%20Nasir&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 ### 🙋‍♂️ Hello, I'm Muhammad Farhan Nasir
